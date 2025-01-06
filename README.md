@@ -31,7 +31,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ---
 ✉ **How to reach me:**
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): [navaapis@gmail.com]
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [www.linkedin.com/in/mateo-manosalvas-aa0a31186]
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): [www.linkedin.com/in/mateo-manosalvas-aa0a31186]
 
 Thanks for visiting my profile! 😊
 
