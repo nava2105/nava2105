@@ -1,7 +1,4 @@
-<!-- Markdown Image -->
-![Image Alt Text](https://github.com/user-attachments/assets/17494f4e-321e-46e1-95b6-adab5d7e2a5d)
-<!-- HTML Image Tag -->
-<img alt="Image Alt Text" src="image-source" />
+![image](https://github.com/user-attachments/assets/be0d9a3b-b799-46c2-a35f-a351c18c01a1)
 
 
 ## Hi there 👋
