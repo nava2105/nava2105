@@ -25,7 +25,7 @@ I'm **Nava** (real name Mateo), an **eighth semester student of Information Syst
 Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects!
 
 ### Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nava2105&show_icons=true&bg_color=00000000)](https://github.com/nava2105/github-readme-stats&show_icons=true&bg_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nava2105&layout=compact&show_icons=true&bg_color=00000000)](https://github.com/nava2105/github-readme-stats&layout=compact&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nava2105&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nava2105&layout=compact&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ✉ **How to reach me:**
