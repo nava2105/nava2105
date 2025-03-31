@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm **Nava** (real name Mateo), an **eighth semester student of Information Systems Engineering** at the Central University of Ecuador. Currently, I'm balancing my studies with an **internship in the Anti-Bribery Department of CELEC EP**.
+I'm **Nava** (real name Mateo), an **ninth semester student of Information Systems Engineering** at the Central University of Ecuador. Currently, I'm balancing my studies with an **internship in the Anti-Bribery Department of CELEC EP**.
 
 ### About Me
 - 🔧 **Full Stack Developer:** I enjoy working on full stack projects, building both frontend and backend systems.
